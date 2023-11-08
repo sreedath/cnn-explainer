@@ -116,7 +116,7 @@ One day, the machine was given a challenge: to learn to recognize different thin
       The story begins when the Camera Eye looks at a picture. It first breaks down the picture into three parts: one part is just red, another just green, and the last part just blue. It's like having glasses that only show you one color at a time.
     </p>
     <div class="figure">
-      <img src="PUBLIC_URL/assets/figures/CNN_Part1.gif" alt="clicking to reveal three components - red, green, blue" width=60% height=60% align="middle"/>
+      <img src="/assets/figures/CNN_Part1.gif" alt="clicking to reveal three components - red, green, blue" width=60% height=60% align="middle"/>
       <div class="figure-caption">
   		  Figure 1.  You can see that each image can be broken down into 3 parts: red, green and blue.
   	  </div>
@@ -127,7 +127,7 @@ One day, the machine was given a challenge: to learn to recognize different thin
       After splitting the colors, the picture goes into the machine's dream world. Here, there are special elves called Neurons that live in layers. The first layer elves are the 'see-the-big-picture' kind. They look at the broad strokes, like whether the picture is bright or dark, or if there are edges or blobs of color.
     </p>
     <div class="figure">
-      <img src="PUBLIC_URL/assets/figures/CNN_Part2.gif" alt="clicking to reveal three components - red, green, blue" width=100% height=100% align="middle"/>
+      <img src="/assets/figures/CNN_Part2.gif" alt="clicking to reveal three components - red, green, blue" width=100% height=100% align="middle"/>
       <div class="figure-caption">
   		  Figure 2.  Have a look at the special elves - neurons, who detect broader elements of an image like edges, brightness etc
   	  </div>
@@ -140,7 +140,7 @@ One day, the machine was given a challenge: to learn to recognize different thin
       The elves use these kernels to filter through the picture, creating new pictures from the old one that show only the features they're interested in. They create a gallery of these filtered images, which are like pieces of a puzzle that they'll use to build their final guess.
     </p>
     <div class="figure">
-      <img src="PUBLIC_URL/assets/figures/CNN_Part3.gif" alt="clicking to reveal three components - red, green, blue" width=60% height=60% align="middle"/>
+      <img src="/assets/figures/CNN_Part3.gif" alt="clicking to reveal three components - red, green, blue" width=60% height=60% align="middle"/>
       <div class="figure-caption">
   		  Figure 3.  Magic Kernels: Little wands which neurons wave over the picture to highlight different parts of it. 
   	  </div>
@@ -156,7 +156,7 @@ One day, the machine was given a challenge: to learn to recognize different thin
       Then the picture goes deeper into the dream, to the second layer of elves. These elves are the 'detail-lovers'. They take the broad strokes and start to see patterns, like stripes, dots, or curves. They're like detectives finding clues in a mystery.
     </p>
     <div class="figure">
-      <img src="PUBLIC_URL/assets/figures/CNN_Part4.gif" alt="clicking to reveal three components - red, green, blue" width=100% height=60% align="middle"/>
+      <img src="/assets/figures/CNN_Part4.gif" alt="clicking to reveal three components - red, green, blue" width=100% height=60% align="middle"/>
       <div class="figure-caption">
   		  Figure 4.  Going to the second layer. Neurons in the second layer take the broad strokes and start to see patterns, like stripes, dots, or curves.
   	  </div>
@@ -167,7 +167,7 @@ One day, the machine was given a challenge: to learn to recognize different thin
       As the picture moves through more layers, the elves pass on their clues down the line. With each layer, the elves get smarter and start to guess what they're seeing. "Hmm, these stripes could belong to a zebra," one might say, or "These curves look like the wheels of a car," another might guess.
     </p>
     <div class="figure">
-      <img src="PUBLIC_URL/assets/figures/CNN_Part5.gif" alt="clicking to reveal three components - red, green, blue" width=100% height=60% align="middle"/>
+      <img src="/assets/figures/CNN_Part5.gif" alt="clicking to reveal three components - red, green, blue" width=100% height=60% align="middle"/>
       <div class="figure-caption">
   		  Figure 5.  As we go deeper, neurons get smarter and smarter. "Hmm, these stripes could belong to a zebra," one might say, or "These curves look like the wheels of a car," another might guess.
   	  </div>
@@ -178,7 +178,7 @@ One day, the machine was given a challenge: to learn to recognize different thin
       At the very end of the dream, the elves gather around and start to guess. "It's a koala!" one elf might shout. "No, it's a pizza!" another argues. They vote, and the guess with the most votes is what the machine will say it sees.
     </p>
     <div class="figure">
-      <img src="PUBLIC_URL/assets/figures/CNN_Part6.gif" alt="clicking to reveal three components - red, green, blue" width=60% height=60% align="middle"/>
+      <img src="/assets/figures/CNN_Part6.gif" alt="clicking to reveal three components - red, green, blue" width=60% height=60% align="middle"/>
       <div class="figure-caption">
   		  Figure 6. The neurons make their final guess!
   	  </div>
